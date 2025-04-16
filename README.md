@@ -1,4 +1,4 @@
-# Nerfies
+# Rat-AI-touille
 
 This is the repository that contains source code for the [Rat-AI-touille website](https://rat-ai-touille-web.github.io).
 
